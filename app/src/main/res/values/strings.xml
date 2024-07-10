@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="todo">TODO</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="Imagen">TODO</string>
+    <string name="image">TODO</string>
+    <string name="imagen2">TODO</string>
+    <string name="registrar">registrar</string>
+    <string name="registrarr">Registrar</string>
+    <string name="regresar">Regresar</string>
+    <string name="nombre">nombre</string>
+    <string name="nombres">nombre</string>
+    <string name="Nombre">Nombre</string>
+    <string name="cedula">Cedula</string>
+    <string name="repetircontrase_a">repetircontraseña</string>
+    <string name="nombress">Nombre</string>
+    <string name="repetir_password">Repetir Password</string>
+    <string name="Hello" />
+    <string name="hello">Hello</string>
+    <string name="jhon">Jhon</string>
+    <string name="search_element">Search_element</string>
+    <string name="search_elements">Search_element</string>
+    <string name="search_elemento">search elements</string>
+    <string name="categorias">Categorias</string>
+    <string name="consejos">Consejos</string>
+    <string name="estadistica">Estadistica</string>
+</resources>
